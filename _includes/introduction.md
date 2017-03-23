@@ -14,4 +14,4 @@ We need your help to get there.
 
 
 ***
-*This draft playbook is being developed by the [Mayor's Office of New Urban Mechanics](http://newurbanmechanics.org/) and is inspired by the [US Digital Service's Playbook](https://playbook.cio.gov/). Please send us your thoughts for building it out further!
+*This playbook is a living draft being developed by the [Mayor's Office of New Urban Mechanics](http://newurbanmechanics.org/) and is inspired by the [US Digital Service's Playbook](https://playbook.cio.gov/). Please send us your thoughts for building it out further, and watch for new updates!
